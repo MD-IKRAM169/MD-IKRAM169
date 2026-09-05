@@ -76,4 +76,4 @@ ATM, POS, and debit-card performance using SQL, Python, and Power BI.
 
 ## Connect With Me
 
-[LinkedIn](YOUR_NEW_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/md-ikram-tareq/)
