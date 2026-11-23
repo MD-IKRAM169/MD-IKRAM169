@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 Erlangen, Germany &nbsp;·&nbsp; Open to **HiWi**, **Working Student** &amp; **Internship opportunities**
+  📍 Erlangen, Germany &nbsp;·&nbsp; Open to <strong>HiWi<strong>, <strong>Working Student<strong> &amp; <strong>Internship opportunities<strong>
 </p>
 
 <p align="center">
