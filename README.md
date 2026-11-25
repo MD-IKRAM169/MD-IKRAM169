@@ -10,10 +10,12 @@
 </p>
 
 <p align="center">
-  <img alt="Erlangen, Germany" src="https://img.shields.io/badge/Location-Erlangen%2C_Germany-315C81?style=flat-square">
-  <img alt="Available 20 hours per week" src="https://img.shields.io/badge/Available-20_hours%2Fweek-237A57?style=flat-square">
-  <img alt="Open to relocation" src="https://img.shields.io/badge/Relocation-Germany--wide-315C81?style=flat-square">
+  <img alt="Erlangen, Germany" src="https://img.shields.io/badge/Location-Erlangen%2C_Germany-315C81?style=for-the-badge">
+  <img alt="Available immediately" src="https://img.shields.io/badge/Available-Immediately-237A57?style=for-the-badge">
+  <img alt="Open to relocation" src="https://img.shields.io/badge/Relocation-Germany--wide-315C81?style=for-the-badge">
 </p>
+
+<p align="center"><strong>Available immediately · Open to full-time, internship and working-student opportunities · Willing to relocate throughout Germany.</strong></p>
 
 ---
 
@@ -33,34 +35,34 @@ My coursework is complete, with only my master's thesis remaining. Expected grad
 ![SQL](https://img.shields.io/badge/SQL-35647F?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-A47E10?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-386B9D?style=flat-square&logo=numpy&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-8A6514?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power_Query-8A6514?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-386B9D?style=for-the-badge&logo=numpy&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-8A6514?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-8A6514?style=for-the-badge)
 
 **Data Engineering & Data Quality**
 
-![SQLite](https://img.shields.io/badge/SQLite-176D91?style=flat-square&logo=sqlite&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-176B65?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-176B65?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-315C81?style=flat-square)
-![Data Validation](https://img.shields.io/badge/Data_Validation-315C81?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-176D91?style=for-the-badge&logo=sqlite&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-176B65?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-176B65?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-315C81?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-315C81?style=for-the-badge)
 
 **Machine Learning & Research**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-B84930?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-B96718?style=flat-square&logo=scikitlearn&logoColor=white)
-![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-624B92?style=flat-square)
-![WEKA](https://img.shields.io/badge/WEKA-624B92?style=flat-square)
-![R](https://img.shields.io/badge/R-3165A5?style=flat-square&logo=r&logoColor=white)
-![LIWC](https://img.shields.io/badge/LIWC-624B92?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-B84930?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-B96718?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-624B92?style=for-the-badge)
+![WEKA](https://img.shields.io/badge/WEKA-624B92?style=for-the-badge)
+![R](https://img.shields.io/badge/R-3165A5?style=for-the-badge&logo=r&logoColor=white)
+![LIWC](https://img.shields.io/badge/LIWC-624B92?style=for-the-badge)
 
 **Development & Reproducibility**
 
-![Git](https://img.shields.io/badge/Git-B84930?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-B96718?style=flat-square&logo=jupyter&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2866B1?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B84930?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-B96718?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2866B1?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -69,46 +71,46 @@ My coursework is complete, with only my master's thesis remaining. Expected grad
 Six selected projects, organized in my preferred order. Each repository documents its scope, methods and limitations.
 
 ### 01 · QDArchive Data Pipeline
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-176B65?style=flat-square) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-176D91?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-315C81?style=flat-square)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-176B65?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-176D91?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-315C81?style=for-the-badge)
 
 Automated acquisition, organization and classification of qualitative research metadata using structured processing and relational storage.
 
-[![Explore QDArchive](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Qdarchive-data-pipeline)
+[![Explore QDArchive](https://img.shields.io/badge/Explore_Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Qdarchive-data-pipeline)
 
 ### 02 · MAE-ViT: Label-Efficient Semantic Segmentation
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-624B92?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-B84930?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-315C81?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-624B92?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-B84930?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-315C81?style=for-the-badge)
 
 Academic research into segmentation with limited labeled data, masked autoencoders and Vision Transformers. Includes a reference implementation and distinguishes reported research results from independently reproduced experiments.
 
-[![Explore MAE-ViT](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/mae-vit-label-efficient-segmentation)
+[![Explore MAE-ViT](https://img.shields.io/badge/Explore_Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/mae-vit-label-efficient-segmentation)
 
 ### 03 · CO₂ Emissions & Atmospheric Pressure Analytics
-![Python](https://img.shields.io/badge/Python-306998?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-35647F?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data_Quality-176B65?style=flat-square) ![Time Series](https://img.shields.io/badge/Time_Series-315C81?style=flat-square)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-35647F?style=for-the-badge) ![Data Quality](https://img.shields.io/badge/Data_Quality-176B65?style=for-the-badge) ![Time Series](https://img.shields.io/badge/Time_Series-315C81?style=for-the-badge)
 
 Reproducible ETL pipeline for historical CO₂ emissions and single-station atmospheric-pressure data, with SQLite storage, validation, automated tests and descriptive visualizations.
 
-[![Explore CO2 Analytics](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/CO2-Emissions-Atmospheric-Pressure-Analytics)
+[![Explore CO2 Analytics](https://img.shields.io/badge/Explore_Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/CO2-Emissions-Atmospheric-Pressure-Analytics)
 
 ### 04 · Road Safety Analytics Dashboard
-![Power BI](https://img.shields.io/badge/Power_BI-A47E10?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-8A6514?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-8A6514?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-A47E10?style=for-the-badge) ![DAX](https://img.shields.io/badge/DAX-8A6514?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power_Query-8A6514?style=for-the-badge)
 
 Interactive Power BI dashboard exploring UK road-accident records using KPI cards, charts, maps and filters, with documented data-quality and geographical limitations.
 
-[![Explore Road Safety](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Road-Safety-Analytics-Dashboard)
+[![Explore Road Safety](https://img.shields.io/badge/Explore_Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Road-Safety-Analytics-Dashboard)
 
 ### 05 · Social Media Language Analysis & Feature Selection
-![R](https://img.shields.io/badge/R-3165A5?style=flat-square) ![LIWC](https://img.shields.io/badge/LIWC-624B92?style=flat-square) ![Text Mining](https://img.shields.io/badge/Text_Mining-624B92?style=flat-square)
+![R](https://img.shields.io/badge/R-3165A5?style=for-the-badge) ![LIWC](https://img.shields.io/badge/LIWC-624B92?style=for-the-badge) ![Text Mining](https://img.shields.io/badge/Text_Mining-624B92?style=for-the-badge)
 
 Exploratory research on linguistic features in historical social-media text using LIWC and statistical variable selection in R. Not a clinically validated individual risk-prediction tool.
 
-[![Explore Language Analysis](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Social-Media-Language-Analysis-and-Feature-Selection)
+[![Explore Language Analysis](https://img.shields.io/badge/Explore_Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Social-Media-Language-Analysis-and-Feature-Selection)
 
 ### 06 · Data Mining — Classification & Clustering
-![WEKA](https://img.shields.io/badge/WEKA-624B92?style=flat-square) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-B96718?style=flat-square)
+![WEKA](https://img.shields.io/badge/WEKA-624B92?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-B96718?style=for-the-badge)
 
 Academic work on supervised and unsupervised learning, including classification, clustering and evaluation. Includes original coursework and separate Python demonstrations using synthetic data.
 
-[![Explore Data Mining](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Datamining-Project)
+[![Explore Data Mining](https://img.shields.io/badge/Explore_Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Datamining-Project)
 
 ---
 
@@ -138,7 +140,8 @@ Academic work on supervised and unsupervised learning, including classification,
 | Business Intelligence Analyst | Data Analytics Internship |
 | Reporting Analyst | Student Research Assistant / HiWi |
 
-**Availability:** Immediately, 20 hours/week; full-time start by arrangement.  
+**Availability:** Available immediately · Open to full-time, internship and working-student opportunities · Willing to relocate throughout Germany.  
+**Internships:** Open to full-time and part-time internships.  
 **Location:** Erlangen, Germany; willing to relocate throughout Germany.  
 **Languages:** English (C1) · German (A2).
 
