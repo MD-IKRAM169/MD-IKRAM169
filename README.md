@@ -15,7 +15,9 @@
   <img alt="Open to relocation" src="https://img.shields.io/badge/Relocation-Germany--wide-315C81?style=for-the-badge">
 </p>
 
-<p align="center"><strong>Available immediately · Open to full-time, internship and working-student opportunities · Willing to relocate throughout Germany.</strong></p>
+<p align="center">
+  <strong>Open to Full-Time · Internships · Werkstudent · HiWi Opportunities</strong>
+</p>
 
 ---
 
