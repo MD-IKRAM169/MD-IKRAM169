@@ -1,150 +1,150 @@
+<h1 align="center">Hi, I'm Md Ikram Tareq 👋</h1>
 
-# Hi, I'm Md Ikram Tareq 👋
+<p align="center"><strong>Data Analytics · Business Intelligence · Data Engineering</strong></p>
+<p align="center">M.Sc. Data Science Student at FAU Erlangen-Nürnberg, Germany<br>Professional Banking Analytics Experience · Open to Opportunities Across Germany</p>
 
-### Data Analytics | Business Intelligence | Data Engineering
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-ikram-tareq/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
+  <a href="https://md-ikram169.github.io/"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio_Website-176B65?style=for-the-badge"></a>
+  <a href="https://github.com/MD-IKRAM169?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-M.Sc. Data Science — Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
-
-📍 Erlangen, Germany | Open to relocation across Germany
-
-[LinkedIn](https://www.linkedin.com/in/md-ikram-tareq/) · [Portfolio Website](https://md-ikram169.github.io/) · [GitHub Repositories](https://github.com/MD-IKRAM169?tab=repositories)
-
----
-
-## About Me
-
-I am an MSc Data Science student at FAU Erlangen-Nürnberg with a Computer Science and Engineering background and professional experience in banking analytics.
-
-Previously, I worked as an Assistant Officer in Alternative Delivery Services at IFIC Bank, analyzing ATM profitability, POS terminal performance and debit-card activity using SQL, Microsoft Excel and Power BI.
-
-My academic coursework is completed, with only my master's thesis remaining. My expected graduation is March 2028.
-
-My interests include:
-
-- Data Analytics and Business Intelligence
-- Data Engineering and ETL Pipelines
-- Financial and Banking Analytics
-- Data Visualization and KPI Reporting
-- Applied Machine Learning and Research
+<p align="center">
+  <img alt="Erlangen, Germany" src="https://img.shields.io/badge/Location-Erlangen%2C_Germany-315C81?style=flat-square">
+  <img alt="Available 20 hours per week" src="https://img.shields.io/badge/Available-20_hours%2Fweek-237A57?style=flat-square">
+  <img alt="Open to relocation" src="https://img.shields.io/badge/Relocation-Germany--wide-315C81?style=flat-square">
+</p>
 
 ---
 
-## Technical Skills
+## 👨‍💻 About me
 
-| Category | Technologies and Methods |
+I am an M.Sc. Data Science student at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** with a background in Computer Science and Engineering and professional experience in banking analytics.
+
+At **IFIC Bank PLC**, I analyzed ATM profitability, POS terminal performance and debit-card activity using **SQL, Microsoft Excel and Power BI** to support operational reporting and business decisions.
+
+My coursework is complete, with only my master's thesis remaining. Expected graduation: **March 2028**. My portfolio focuses on reliable data pipelines, business intelligence, data quality and applied machine learning.
+
+## 🛠️ Technical toolkit
+
+**Data Analytics & Business Intelligence**
+
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-35647F?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-A47E10?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-386B9D?style=flat-square&logo=numpy&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-8A6514?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-8A6514?style=flat-square)
+
+**Data Engineering & Data Quality**
+
+![SQLite](https://img.shields.io/badge/SQLite-176D91?style=flat-square&logo=sqlite&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-176B65?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-176B65?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-315C81?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data_Validation-315C81?style=flat-square)
+
+**Machine Learning & Research**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-B84930?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-B96718?style=flat-square&logo=scikitlearn&logoColor=white)
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-624B92?style=flat-square)
+![WEKA](https://img.shields.io/badge/WEKA-624B92?style=flat-square)
+![R](https://img.shields.io/badge/R-3165A5?style=flat-square&logo=r&logoColor=white)
+![LIWC](https://img.shields.io/badge/LIWC-624B92?style=flat-square)
+
+**Development & Reproducibility**
+
+![Git](https://img.shields.io/badge/Git-B84930?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-B96718?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2866B1?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+Six selected projects, organized in my preferred order. Each repository documents its scope, methods and limitations.
+
+### 01 · QDArchive Data Pipeline
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-176B65?style=flat-square) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-176D91?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-315C81?style=flat-square)
+
+Automated acquisition, organization and classification of qualitative research metadata using structured processing and relational storage.
+
+[![Explore QDArchive](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Qdarchive-data-pipeline)
+
+### 02 · MAE-ViT: Label-Efficient Semantic Segmentation
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-624B92?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-B84930?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-315C81?style=flat-square)
+
+Academic research into segmentation with limited labeled data, masked autoencoders and Vision Transformers. Includes a reference implementation and distinguishes reported research results from independently reproduced experiments.
+
+[![Explore MAE-ViT](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/mae-vit-label-efficient-segmentation)
+
+### 03 · CO₂ Emissions & Atmospheric Pressure Analytics
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-35647F?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data_Quality-176B65?style=flat-square) ![Time Series](https://img.shields.io/badge/Time_Series-315C81?style=flat-square)
+
+Reproducible ETL pipeline for historical CO₂ emissions and single-station atmospheric-pressure data, with SQLite storage, validation, automated tests and descriptive visualizations.
+
+[![Explore CO2 Analytics](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/CO2-Emissions-Atmospheric-Pressure-Analytics)
+
+### 04 · Road Safety Analytics Dashboard
+![Power BI](https://img.shields.io/badge/Power_BI-A47E10?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-8A6514?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-8A6514?style=flat-square)
+
+Interactive Power BI dashboard exploring UK road-accident records using KPI cards, charts, maps and filters, with documented data-quality and geographical limitations.
+
+[![Explore Road Safety](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Road-Safety-Analytics-Dashboard)
+
+### 05 · Social Media Language Analysis & Feature Selection
+![R](https://img.shields.io/badge/R-3165A5?style=flat-square) ![LIWC](https://img.shields.io/badge/LIWC-624B92?style=flat-square) ![Text Mining](https://img.shields.io/badge/Text_Mining-624B92?style=flat-square)
+
+Exploratory research on linguistic features in historical social-media text using LIWC and statistical variable selection in R. Not a clinically validated individual risk-prediction tool.
+
+[![Explore Language Analysis](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Social-Media-Language-Analysis-and-Feature-Selection)
+
+### 06 · Data Mining — Classification & Clustering
+![WEKA](https://img.shields.io/badge/WEKA-624B92?style=flat-square) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-B96718?style=flat-square)
+
+Academic work on supervised and unsupervised learning, including classification, clustering and evaluation. Includes original coursework and separate Python demonstrations using synthetic data.
+
+[![Explore Data Mining](https://img.shields.io/badge/Explore_Repository-24292F?style=flat&logo=github&logoColor=white)](https://github.com/MD-IKRAM169/Datamining-Project)
+
+---
+
+## 💼 Professional experience
+
+| Role | Organization | Period |
+|---|---|---|
+| Assistant Officer — Alternative Delivery Services | IFIC Bank PLC | Jan 2022 – May 2023 |
+| Teaching Assistant — Computer Science | American International University-Bangladesh | Jun 2020 – Oct 2020 |
+
+**Banking analytics:** ATM profitability, POS and debit-card activity, operational reporting, SQL, Excel and Power BI.
+
+**Teaching:** Java, programming fundamentals and academic support.
+
+## 🎓 Education
+
+| Degree | University | Period |
+|---|---|---|
+| M.Sc. Data Science | FAU Erlangen-Nürnberg | Oct 2022 – Mar 2028 (expected) |
+| B.Sc. Computer Science and Engineering | American International University-Bangladesh | 2016 – 2021 |
+
+## 🌍 Open to opportunities in Germany
+
+| Professional roles | Student opportunities |
 |---|---|
-| Data Analytics | Python, SQL, Pandas, NumPy, Excel |
-| Business Intelligence | Power BI, DAX, Power Query, KPI Reporting |
-| Data Engineering | SQLite, ETL, APIs, Data Pipelines, Data Validation |
-| Machine Learning | PyTorch, scikit-learn, WEKA, Vision Transformers |
-| Research and Statistics | R, Text Mining, Statistical Analysis, Feature Selection |
-| Development Tools | Git, GitHub, Jupyter Notebook, GitHub Actions |
+| Data Analyst / Junior Data Analyst | Working Student / Werkstudent |
+| Business Intelligence Analyst | Data Analytics Internship |
+| Reporting Analyst | Student Research Assistant / HiWi |
 
----
+**Availability:** Immediately, 20 hours/week; full-time start by arrangement.  
+**Location:** Erlangen, Germany; willing to relocate throughout Germany.  
+**Languages:** English (C1) · German (A2).
 
-## Featured Projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-ikram-tareq/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge"></a>
+  <a href="https://md-ikram169.github.io/"><img alt="Visit portfolio" src="https://img.shields.io/badge/Visit_My_Portfolio-176B65?style=for-the-badge"></a>
+</p>
 
-### 01. [QDArchive Data Pipeline](https://github.com/MD-IKRAM169/Qdarchive-data-pipeline)
-
-**Data Engineering · Python · SQLite · ETL · Research Metadata**
-
-An automated pipeline for acquiring, organizing and classifying qualitative research metadata. Demonstrates structured data processing, relational data storage and research data management.
-
-### 02. [MAE-ViT: Label-Efficient Semantic Segmentation](https://github.com/MD-IKRAM169/mae-vit-label-efficient-segmentation)
-
-**Deep Learning · PyTorch · Vision Transformers · Computer Vision**
-
-Academic research exploring semantic segmentation with limited labeled data using masked autoencoders and self-supervised learning. Includes a documented reference implementation and distinguishes previously reported research results from independently reproduced experiments.
-
-### 03. [CO₂ Emissions & Atmospheric Pressure Analytics](https://github.com/MD-IKRAM169/CO2-Emissions-Atmospheric-Pressure-Analytics)
-
-**Python · SQL · SQLite · ETL · Data Validation · Time-Series Analytics**
-
-A reproducible environmental data pipeline for processing historical CO₂ emissions and single-station atmospheric-pressure measurements. Includes structured data storage, automated tests, data-quality audits and descriptive visualizations.
-
-### 04. [Road Safety Analytics Dashboard](https://github.com/MD-IKRAM169/Bavaria-Road-Safety-Analytics-Dashboard)
-
-**Power BI · DAX · Power Query · Business Intelligence**
-
-An interactive Power BI dashboard for exploring UK road-accident records through KPI cards, charts, maps and filters. Documents important data-quality and geographical limitations.
-
-### 05. [Social Media Language Analysis & Feature Selection](https://github.com/MD-IKRAM169/Social-Media-Language-Analysis-and-Feature-Selection)
-
-**R · LIWC · Text Mining · Feature Selection · Statistical Analysis**
-
-Exploratory academic research investigating linguistic patterns and relevant features in historical social media text. The project focuses on research methodology and statistical relationships rather than clinically validated risk prediction.
-
-### 06. [Data Mining — Classification & Clustering](https://github.com/MD-IKRAM169/Datamining-Project)
-
-**WEKA · Python · scikit-learn · Machine Learning**
-
-Academic investigations of classification, clustering and model evaluation. Includes original coursework documentation and separate Python demonstrations using synthetic data.
-
----
-
-## Professional Experience
-
-**Assistant Officer — Alternative Delivery Services**
-IFIC Bank PLC | January 2022 – May 2023
-
-- ATM profitability and operational performance analysis
-- POS terminal and debit-card transaction analysis
-- SQL, Excel and Power BI reporting
-- Business performance monitoring and KPI reporting
-
-**Teaching Assistant — Computer Science**
-American International University-Bangladesh | June 2020 – October 2020
-
-- Java programming and programming fundamentals
-- Academic support and technical problem-solving
-
----
-
-## Education
-
-**Master of Science — Data Science**
-
-Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
-
-October 2022 – March 2028 (Expected)
-
-Coursework completed; master's thesis remaining.
-
-**Bachelor of Science — Computer Science and Engineering**
-
-American International University-Bangladesh (AIUB)
-
-2016 – 2021
-
----
-
-## Open to Work
-
-I am actively seeking the following opportunities in Germany:
-
-- Data Analyst / Junior Data Analyst
-- Business Intelligence Analyst
-- Reporting Analyst
-- Working Student / Werkstudent
-- Data Analytics Internship
-- Student Research Assistant / HiWi
-
-**Availability:** Immediately, 20 hours per week
-
-**Relocation:** Open to opportunities throughout Germany
-
-**Full-time availability:** By arrangement
-
-**Languages:** English (C1) | German (A2)
-
----
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/md-ikram-tareq/)
-- [Professional Portfolio](https://md-ikram169.github.io/)
-- [GitHub](https://github.com/MD-IKRAM169)
-
----
-
-*Focused on reliable data, reproducible workflows, transparent analysis and meaningful business insights.*
+<p align="center"><em>Reliable data. Reproducible workflows. Transparent analysis.</em></p>
